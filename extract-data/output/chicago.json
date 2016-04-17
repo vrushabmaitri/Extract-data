@@ -1,0 +1,35 @@
+{
+    "First Name": "Gregg", 
+    "Email": "gregg.penman@enron.com", 
+    "additional": {
+        "Last Name": "Penman", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Brent", 
+    "Email": "brent.price@enron.com", 
+    "additional": {
+        "Last Name": "Price"
+    }
+}{
+    "First Name": "Laura", 
+    "Email": "laura.luce@enron.com", 
+    "additional": {
+        "Last Name": "Luce"
+    }
+}{
+    "First Name": "Janet", 
+    "Email": "janet.dietrich@enron.com", 
+    "additional": {
+        "Last Name": "Dietrich", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}

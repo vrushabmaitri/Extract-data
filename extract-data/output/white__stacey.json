@@ -1,0 +1,45 @@
+{
+    "First Name": "Stacey", 
+    "Email": "stacey.white@enron.com", 
+    "additional": {
+        "Last Name": "White", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Tim", 
+    "Email": "tim.belden@enron.com", 
+    "additional": {
+        "Last Name": "Belden"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "John", 
+    "Email": "john.lavorato@enron.com", 
+    "additional": {
+        "Last Name": "Lavorato"
+    }
+}{
+    "First Name": "Beth", 
+    "Email": "beth.perlman@enron.com", 
+    "additional": {
+        "Last Name": "Perlman"
+    }
+}{
+    "First Name": "Steve", 
+    "Email": "steve.nat@enron.com", 
+    "additional": {
+        "Last Name": "Nat"
+    }
+}{
+    "First Name": "Sheri", 
+    "Email": "sheri.thomas@enron.com", 
+    "additional": {
+        "Last Name": "Thomas"
+    }
+}

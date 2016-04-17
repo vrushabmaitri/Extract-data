@@ -1,0 +1,59 @@
+{
+    "First Name": "Brent", 
+    "Email": "brent.price@enron.com", 
+    "additional": {
+        "Last Name": "Price", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Jefferson", 
+    "Email": "jefferson.sorenson@enron.com", 
+    "additional": {
+        "Last Name": "Sorenson"
+    }
+}{
+    "First Name": "Susan", 
+    "Email": "susan.harrison@enron.com", 
+    "additional": {
+        "Last Name": "Harrison"
+    }
+}{
+    "First Name": "Larry", 
+    "Email": "larry.hunter@enron.com", 
+    "additional": {
+        "Last Name": "Hunter"
+    }
+}{
+    "First Name": "Enron", 
+    "Email": "enron.announcements@enron.com", 
+    "additional": {
+        "Last Name": "Announcements", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "EGM", 
+    "Email": "egm.employees@enron.com", 
+    "additional": {
+        "Last Name": "Employees"
+    }
+}{
+    "First Name": "Richard", 
+    "Email": "richard.causey@enron.com", 
+    "additional": {
+        "Last Name": "Causey"
+    }
+}{
+    "First Name": "Ted", 
+    "Email": "ted.murphy@enron.com", 
+    "additional": {
+        "Last Name": "Murphy"
+    }
+}

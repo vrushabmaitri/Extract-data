@@ -1,0 +1,83 @@
+{
+    "First Name": "Heidi", 
+    "Email": "heidi.mason@enron.com", 
+    "additional": {
+        "Last Name": "Mason", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.minns@enron.com", 
+    "additional": {
+        "Last Name": "Minns"
+    }
+}{
+    "First Name": "Richard", 
+    "Email": "richard.ingersoll@enron.com", 
+    "additional": {
+        "Last Name": "Ingersoll", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "sally.beck@enron.com", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Scott", 
+    "Email": "scott.mills@enron.com", 
+    "additional": {
+        "Last Name": "Mills"
+    }
+}{
+    "First Name": "Sue", 
+    "Email": "sue.frusco@enron.com", 
+    "additional": {
+        "Last Name": "Frusco", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Araceli", 
+    "Email": "araceli.romero@enron.com", 
+    "additional": {
+        "Last Name": "Romero"
+    }
+}{
+    "First Name": "Jana", 
+    "Email": "jana.morse@enron.com", 
+    "additional": {
+        "Last Name": "Morse"
+    }
+}{
+    "First Name": "Juana", 
+    "Email": "juana.fayett@enron.com", 
+    "additional": {
+        "Last Name": "Fayett"
+    }
+}{
+    "First Name": "Michael", 
+    "Email": "michael.moscoso@enron.com", 
+    "additional": {
+        "Last Name": "Moscoso", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Enron", 
+    "Email": "enron.announcements@enron.com", 
+    "additional": {
+        "Last Name": "Announcements", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "All", 
+    "Email": "all.worldwide@enron.com", 
+    "additional": {
+        "Last Name": "Worldwide"
+    }
+}

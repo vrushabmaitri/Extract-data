@@ -1,0 +1,93 @@
+{
+    "First Name": "Eugenio", 
+    "Email": "eugenio.perez@enron.com", 
+    "additional": {
+        "Last Name": "Perez", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Georgeanne", 
+    "Email": "georgeanne.hodges@enron.com", 
+    "additional": {
+        "Last Name": "Hodges"
+    }
+}{
+    "First Name": "Jan", 
+    "Email": "jan.johnson@enron.com", 
+    "additional": {
+        "Last Name": "Johnson"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Cassandra", 
+    "Email": "cassandra.schultz@enron.com", 
+    "additional": {
+        "Last Name": "Schultz"
+    }
+}{
+    "First Name": "Shona", 
+    "Email": "shona.wilson@enron.com", 
+    "additional": {
+        "Last Name": "Wilson"
+    }
+}{
+    "First Name": "Gary", 
+    "Email": "gary.peng@enron.com", 
+    "additional": {
+        "Last Name": "Peng"
+    }
+}{
+    "First Name": "Jennifer", 
+    "Email": "jennifer.nguyen@enron.com", 
+    "additional": {
+        "Last Name": "Nguyen"
+    }
+}{
+    "First Name": "Maria", 
+    "Email": "maria.aguilera-peon@enron.com", 
+    "additional": {
+        "Last Name": "Aguilera-Peon"
+    }
+}{
+    "First Name": "Hope", 
+    "Email": "hope.vargas@enron.com", 
+    "additional": {
+        "Last Name": "Vargas"
+    }
+}{
+    "First Name": "Tatiana", 
+    "Email": "tatiana.waxler@enron.com", 
+    "additional": {
+        "Last Name": "Waxler"
+    }
+}{
+    "First Name": "Adarsh", 
+    "Email": "adarsh.vakharia@enron.com", 
+    "additional": {
+        "Last Name": "Vakharia"
+    }
+}{
+    "First Name": "Matthew", 
+    "Email": "matthew.adams@enron.com", 
+    "additional": {
+        "Last Name": "Adams"
+    }
+}{
+    "First Name": "Naveen", 
+    "Email": "naveen.andrews@enron.com", 
+    "additional": {
+        "Last Name": "Andrews"
+    }
+}{
+    "First Name": "Ted", 
+    "Email": "ted.murphy@enron.com", 
+    "additional": {
+        "Last Name": "Murphy"
+    }
+}

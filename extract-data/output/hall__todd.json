@@ -1,0 +1,121 @@
+{
+    "First Name": "D", 
+    "Email": "d.hall@enron.com", 
+    "additional": {
+        "Last Name": "Hall", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Joe", 
+    "Email": "joe.gold@enron.com", 
+    "additional": {
+        "Last Name": "Gold"
+    }
+}{
+    "First Name": "Gregor", 
+    "Email": "gregor.baumerich@enron.com", 
+    "additional": {
+        "Last Name": "Baumerich"
+    }
+}{
+    "First Name": "Paul", 
+    "Email": "paul.mead@enron.com", 
+    "additional": {
+        "Last Name": "Mead"
+    }
+}{
+    "First Name": "James", 
+    "Email": "james.new@enron.com", 
+    "additional": {
+        "Last Name": "New"
+    }
+}{
+    "First Name": "Neil", 
+    "Email": "neil.tarling@enron.com", 
+    "additional": {
+        "Last Name": "Tarling"
+    }
+}{
+    "First Name": "Pablo", 
+    "Email": "pablo.pissanetzky@enron.com", 
+    "additional": {
+        "Last Name": "Pissanetzky"
+    }
+}{
+    "First Name": "Brent", 
+    "Email": "brent.price@enron.com", 
+    "additional": {
+        "Last Name": "Price"
+    }
+}{
+    "First Name": "Richard", 
+    "Email": "richard.burchfield@enron.com", 
+    "additional": {
+        "Last Name": "Burchfield", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Beth", 
+    "Email": "beth.perlman@enron.com", 
+    "additional": {
+        "Last Name": "Perlman"
+    }
+}{
+    "First Name": "Brian", 
+    "Email": "brian.hudson@enron.com", 
+    "additional": {
+        "Last Name": "Hudson"
+    }
+}{
+    "First Name": "Stephen", 
+    "Email": "stephen.stock@enron.com", 
+    "additional": {
+        "Last Name": "Stock"
+    }
+}{
+    "First Name": "Ted", 
+    "Email": "ted.murphy@enron.com", 
+    "additional": {
+        "Last Name": "Murphy"
+    }
+}{
+    "First Name": "Rick", 
+    "Email": "rick.buy@enron.com", 
+    "additional": {
+        "Last Name": "Buy"
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.maxwell@enron.com", 
+    "additional": {
+        "Last Name": "Maxwell"
+    }
+}{
+    "First Name": "Susie", 
+    "Email": "susie.ayala@enron.com", 
+    "additional": {
+        "Last Name": "Ayala"
+    }
+}{
+    "First Name": "Jane", 
+    "Email": "jane.allen@enron.com", 
+    "additional": {
+        "Last Name": "Allen", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Norma", 
+    "Email": "norma.villarreal@enron.com", 
+    "additional": {
+        "Last Name": "Villarreal"
+    }
+}

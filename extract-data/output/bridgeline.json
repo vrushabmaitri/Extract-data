@@ -1,0 +1,179 @@
+{
+    "First Name": "Wes", 
+    "Email": "wes.colwell@enron.com", 
+    "additional": {
+        "Last Name": "Colwell", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Brent", 
+    "Email": "brent.price@enron.com", 
+    "additional": {
+        "Last Name": "Price"
+    }
+}{
+    "First Name": "Steve", 
+    "Email": "steve.jackson@enron.com", 
+    "additional": {
+        "Last Name": "Jackson"
+    }
+}{
+    "First Name": "Georgeanne", 
+    "Email": "georgeanne.hodges@enron.com", 
+    "additional": {
+        "Last Name": "Hodges"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Bob", 
+    "Email": "bob.klein@enron.com", 
+    "additional": {
+        "Last Name": "Klein", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Brenda", 
+    "Email": "brenda.herod@enron.com", 
+    "additional": {
+        "Last Name": "Herod"
+    }
+}{
+    "First Name": "Curry@texaco.com", 
+    "Email": "curry@texaco.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Davisrl@texaco.com", 
+    "Email": "davisrl@texaco.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "ledoujk@texaco.com", 
+    "Email": "ledoujk@texaco.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Mullimi@texaco.com", 
+    "Email": "mullimi@texaco.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Trevor", 
+    "Email": "trevor.mihalik@enron.com", 
+    "additional": {
+        "Last Name": "Mihalik"
+    }
+}{
+    "First Name": "Robert", 
+    "Email": "robert.shiring@enron.com", 
+    "additional": {
+        "Last Name": "Shiring"
+    }
+}{
+    "First Name": "Jim", 
+    "Email": "jim.coffey@enron.com", 
+    "additional": {
+        "Last Name": "Coffey"
+    }
+}{
+    "First Name": "Karry", 
+    "Email": "karry.kendall@enron.com", 
+    "additional": {
+        "Last Name": "Kendall"
+    }
+}{
+    "First Name": "Harold", 
+    "Email": "harold.bertram@enron.com", 
+    "additional": {
+        "Last Name": "Bertram"
+    }
+}{
+    "First Name": "meersbe@texaco.com", 
+    "Email": "meersbe@texaco.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Sandra", 
+    "Email": "sandra.hrna@enron.com", 
+    "additional": {
+        "Last Name": "Hrna"
+    }
+}{
+    "First Name": "Jay", 
+    "Email": "jay.knoblauh@enron.com", 
+    "additional": {
+        "Last Name": "Knoblauh"
+    }
+}{
+    "First Name": "Steve", 
+    "Email": "steve.venturatos@enron.com", 
+    "additional": {
+        "Last Name": "Venturatos"
+    }
+}{
+    "First Name": "Rita", 
+    "Email": "rita.wynne@enron.com", 
+    "additional": {
+        "Last Name": "Wynne"
+    }
+}{
+    "First Name": "Lisa", 
+    "Email": "lisa.csikos@enron.com", 
+    "additional": {
+        "Last Name": "Csikos"
+    }
+}{
+    "First Name": "Jefferson", 
+    "Email": "jefferson.sorenson@enron.com", 
+    "additional": {
+        "Last Name": "Sorenson"
+    }
+}{
+    "First Name": "Kathryn", 
+    "Email": "kathryn.cordes@enron.com", 
+    "additional": {
+        "Last Name": "Cordes"
+    }
+}{
+    "First Name": "Carrie", 
+    "Email": "carrie.hollomon@enron.com", 
+    "additional": {
+        "Last Name": "Hollomon"
+    }
+}{
+    "First Name": "Michael", 
+    "Email": "michael.moscoso@enron.com", 
+    "additional": {
+        "Last Name": "Moscoso"
+    }
+}{
+    "First Name": "Tommy", 
+    "Email": "tommy.yanowski@enron.com", 
+    "additional": {
+        "Last Name": "Yanowski"
+    }
+}{
+    "First Name": "Shonnie", 
+    "Email": "shonnie.daniel@enron.com", 
+    "additional": {
+        "Last Name": "Daniel"
+    }
+}{
+    "First Name": "Brian", 
+    "Email": "brian.redmond@enron.com", 
+    "additional": {
+        "Last Name": "Redmond"
+    }
+}

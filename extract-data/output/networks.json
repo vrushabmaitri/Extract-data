@@ -1,0 +1,53 @@
+{
+    "First Name": "Enron", 
+    "Email": "enron.announcements@enron.com", 
+    "additional": {
+        "Last Name": "Announcements", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "ENW-Employees", 
+    "Email": "enw-employees@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Enron", 
+    "Email": "enron.houston@enron.com", 
+    "additional": {
+        "Last Name": "Houston"
+    }
+}{
+    "First Name": "Sheri", 
+    "Email": "sheri.thomas@enron.com", 
+    "additional": {
+        "Last Name": "Thomas", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.forster@enron.com", 
+    "additional": {
+        "Last Name": "Forster"
+    }
+}{
+    "First Name": "Jennifer", 
+    "Email": "jennifer.denny@enron.com", 
+    "additional": {
+        "Last Name": "Denny"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Louise", 
+    "Email": "louise.kitchen@enron.com", 
+    "additional": {
+        "Last Name": "Kitchen"
+    }
+}

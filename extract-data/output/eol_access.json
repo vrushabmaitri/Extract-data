@@ -1,0 +1,39 @@
+{
+    "First Name": "ARSystem@mailman.enron.com", 
+    "Email": "arsystem@mailman.enron.com", 
+    "additional": {
+        "Last Name": "", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "sally.beck@enron.com", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Tara", 
+    "Email": "tara.sweitzer@enron.com", 
+    "additional": {
+        "Last Name": "Sweitzer"
+    }
+}{
+    "First Name": "Stephanie", 
+    "Email": "stephanie.sever@enron.com", 
+    "additional": {
+        "Last Name": "Sever"
+    }
+}{
+    "First Name": "Claudia", 
+    "Email": "claudia.clark@enron.com", 
+    "additional": {
+        "Last Name": "Clark"
+    }
+}{
+    "First Name": "Lisa", 
+    "Email": "lisa.lees@enron.com", 
+    "additional": {
+        "Last Name": "Lees"
+    }
+}

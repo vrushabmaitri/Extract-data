@@ -1,0 +1,205 @@
+{
+    "First Name": "Steve", 
+    "Email": "steve.venturatos@enron.com", 
+    "additional": {
+        "Last Name": "Venturatos", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "James", 
+    "Email": "james.scribner@enron.com", 
+    "additional": {
+        "Last Name": "Scribner"
+    }
+}{
+    "First Name": "Beth", 
+    "Email": "beth.apollo@enron.com", 
+    "additional": {
+        "Last Name": "Apollo"
+    }
+}{
+    "First Name": "Stubblefield,", 
+    "Email": "wade.stubblefield@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4DAD4484-CCE8DEE5-862567D2-7524A8>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Oxley", 
+    "Email": "david.oxley@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "David", 
+    "Email": "kalen.pieper@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=DOXLEY>"
+    }
+}{
+    "First Name": "Pieper", 
+    "Email": "kathlene.mosley@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Kalen", 
+    "Email": "hector.mcloughlin@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4E8AE173-8311940B-862569C3-7E54FC>"
+    }
+}{
+    "First Name": "Mosley", 
+    "Email": "gilda.parker@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Black", 
+    "Email": "don.black@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Don", 
+    "Email": "rogers.herndon@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3FB677C9-5533A11E-8625699D-71B01E>"
+    }
+}{
+    "First Name": "Herndon", 
+    "Email": "jess.hewitt@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Rogers", 
+    "Email": "neil.bresnan@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=RHERNDO>"
+    }
+}{
+    "First Name": "Hewitt", 
+    "Email": "mark.jackson@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Jess", 
+    "Email": "mallik.avs@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A5480D5E-D3F1AEA3-625699F-797DE4>"
+    }
+}{
+    "First Name": "Bresnan", 
+    "Email": "james.lewis@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Neil", 
+    "Email": "lynne.ruffer@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>"
+    }
+}{
+    "First Name": "Jackson", 
+    "Email": "neil.hong@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Mark", 
+    "Email": "meredith.eggleston@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E316EE86-3FB94D67-862568D2-50A0F6>"
+    }
+}{
+    "First Name": "Avs", 
+    "Email": "scott.mills@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Mallik", 
+    "Email": "wes.colwell@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=AB637232-34EBA2E6-86256920-60855E>"
+    }
+}{
+    "First Name": "James", 
+    "Email": "rachel.bryant@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=160D115F-E3A12228-862564CD-53AE9A>"
+    }
+}{
+    "First Name": "Ruffer", 
+    "Email": "rachel.massey@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Mary", 
+    "Email": "faith.killen@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4CA96A86-FF0622D1-862569D1-7961C3>"
+    }
+}{
+    "First Name": "Neil", 
+    "Email": "brian.heinrich@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D4F733E3-1D5291E1-8625679A-67D0FF>"
+    }
+}{
+    "First Name": "Eggleston", 
+    "Email": "m..presto@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Meredith", 
+    "Email": "tim.belden@enron.com", 
+    "additional": {
+        "Last Name": "</O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2DE195A1-22F62865-862564E3-6CFF73>"
+    }
+}{
+    "First Name": "Mills", 
+    "Email": "john.lavorato@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Mills", 
+    "Email": "john.lavorato@enron.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Janet", 
+    "Email": "janet.dietrich@enron.com", 
+    "additional": {
+        "Last Name": "Dietrich", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.port@enron.com", 
+    "additional": {
+        "Last Name": "Port"
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.delainey@enron.com", 
+    "additional": {
+        "Last Name": "Delainey"
+    }
+}

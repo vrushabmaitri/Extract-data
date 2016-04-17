@@ -1,0 +1,877 @@
+{
+    "First Name": "Clickathome", 
+    "Email": "clickathome@enron.com", 
+    "additional": {
+        "Last Name": "", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "\"White,", 
+    "Email": "cwhite@texas.usta.com", 
+    "additional": {
+        "Last Name": "<CWhite@texas.usta.com>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "\"'cwhite@viviance.com'\"", 
+    "Email": "cwhite@viviance.com", 
+    "additional": {
+        "Last Name": "<cwhite@viviance.com>"
+    }
+}{
+    "First Name": "\"Gary", 
+    "Email": "ges@houston.rr.com", 
+    "additional": {
+        "Last Name": "<ges@houston.rr.com>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Cindy", 
+    "Email": "piropos@austin.rr.com", 
+    "additional": {
+        "Last Name": "<piropos@austin.rr.com>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Dianne", 
+    "Email": "dianne.swiber@enron.com", 
+    "additional": {
+        "Last Name": "Swiber", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "SueW2@aol.com", 
+    "Email": "suew2@aol.com", 
+    "additional": {
+        "Last Name": "", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "\"warren", 
+    "Email": "wlongmire@viviance.com", 
+    "additional": {
+        "Last Name": "<wlongmire@viviance.com>"
+    }
+}{
+    "First Name": "\"Gerry\"", 
+    "Email": "gsomers@viviance.com", 
+    "additional": {
+        "Last Name": "<gsomers@viviance.com>"
+    }
+}{
+    "First Name": "\"emrul\"", 
+    "Email": "ealto@viviance.com", 
+    "additional": {
+        "Last Name": "<ealto@viviance.com>"
+    }
+}{
+    "First Name": "Patti", 
+    "Email": "patti.thompson@enron.com", 
+    "additional": {
+        "Last Name": "Thompson", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "JohnsonCB@aol.com", 
+    "Email": "johnsoncb@aol.com", 
+    "additional": {
+        "Last Name": "", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Roger.Bhalla@compaq.com", 
+    "Email": "roger.bhalla@compaq.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "sprenger@mail.utexas.net", 
+    "Email": "sprenger@mail.utexas.net", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Chrissy.Citzler@us.pwcglobal.com", 
+    "Email": "chrissy.citzler@us.pwcglobal.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "laughingdog@webtv.net", 
+    "Email": "laughingdog@webtv.net", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "monica.schafer@us.pwcglobal.com", 
+    "Email": "monica.schafer@us.pwcglobal.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "maumus@tgroup.net", 
+    "Email": "maumus@tgroup.net", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "mhansen@fulbright.com", 
+    "Email": "mhansen@fulbright.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Donna_Anderson@aimfunds.com", 
+    "Email": "donna_anderson@aimfunds.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Glenn", 
+    "Email": "sprenger@alumni.utexas.net", 
+    "additional": {
+        "Last Name": "<sprenger@alumni.utexas.net>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Katie", 
+    "Email": "katie.george@bus.utexas.edu", 
+    "additional": {
+        "Last Name": "<Katie.George@bus.utexas.edu>"
+    }
+}{
+    "First Name": "Davis", 
+    "Email": "davis.paddock@bus.utexas.edu", 
+    "additional": {
+        "Last Name": "<Davis.Paddock@bus.utexas.edu>"
+    }
+}{
+    "First Name": "Jeremy", 
+    "Email": "jeremy.giles@bus.utexas.edu", 
+    "additional": {
+        "Last Name": "<Jeremy.Giles@bus.utexas.edu>"
+    }
+}{
+    "First Name": "Jacob", 
+    "Email": "jacob.walter@bus.utexas.edu", 
+    "additional": {
+        "Last Name": "<Jacob.Walter@bus.utexas.edu>"
+    }
+}{
+    "First Name": "Jon", 
+    "Email": "jon.ruggles@bus.utexas.edu", 
+    "additional": {
+        "Last Name": "<Jon.Ruggles@bus.utexas.edu>"
+    }
+}{
+    "First Name": "Arrion.Smith@bus.utexas.edu", 
+    "Email": "arrion.smith@bus.utexas.edu", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "\"'clowrimore@crockettint.com'\"", 
+    "Email": "clowrimore@crockettint.com", 
+    "additional": {
+        "Last Name": "<clowrimore@crockettint.com>"
+    }
+}{
+    "First Name": "Vanessa", 
+    "Email": "vanessa.schulte@enron.com", 
+    "additional": {
+        "Last Name": "Schulte", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Brent", 
+    "Email": "brent.price@enron.com", 
+    "additional": {
+        "Last Name": "Price"
+    }
+}{
+    "First Name": "Kay", 
+    "Email": "kay.quigley@enron.com", 
+    "additional": {
+        "Last Name": "Quigley"
+    }
+}{
+    "First Name": "\"Texas", 
+    "Email": "vireturn@uts.cc.utexas.edu", 
+    "additional": {
+        "Last Name": "<vireturn@uts.cc.utexas.edu>", 
+        "Mobile": [], 
+        "Phone": " 512-471-8839\n"
+    }
+}{
+    "First Name": "\"RODEGHIERO,STEPHANIE", 
+    "Email": "stephanie_rodeghiero@hp.com", 
+    "additional": {
+        "Last Name": "<stephanie_rodeghiero@hp.com>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Albernita", 
+    "Email": "albernita.travis@enron.com", 
+    "additional": {
+        "Last Name": "Travis", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Daniel", 
+    "Email": "daniel.muschar@enron.com", 
+    "additional": {
+        "Last Name": "Muschar"
+    }
+}{
+    "First Name": "Lisa", 
+    "Email": "lisa.cousino@enron.com", 
+    "additional": {
+        "Last Name": "Cousino", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "\"Daniel", 
+    "Email": "darcilla@viviance.com", 
+    "additional": {
+        "Last Name": "<darcilla@viviance.com>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "\"sonia\"", 
+    "Email": "sjaiswal@viviance.com", 
+    "additional": {
+        "Last Name": "<sjaiswal@viviance.com>"
+    }
+}{
+    "First Name": "\"Mike\"", 
+    "Email": "mhoy@viviance.com", 
+    "additional": {
+        "Last Name": "<mhoy@viviance.com>"
+    }
+}{
+    "First Name": "\"mollie\"", 
+    "Email": "mmcphee@viviance.com", 
+    "additional": {
+        "Last Name": "<mmcphee@viviance.com>"
+    }
+}{
+    "First Name": "<jhokkanen@viviance.com>", 
+    "Email": "jhokkanen@viviance.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "Enron", 
+    "Email": "enron.announcements@enron.com", 
+    "additional": {
+        "Last Name": "Announcements", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "ClickAtHome", 
+    "Email": "clickathome.mailout@enron.com", 
+    "additional": {
+        "Last Name": "Mailout"
+    }
+}{
+    "First Name": "Beverly", 
+    "Email": "bgibson50606@yahoo.com", 
+    "additional": {
+        "Last Name": "<bgibson50606@yahoo.com>", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Terri", 
+    "Email": "jima@jatent.com", 
+    "additional": {
+        "Last Name": "<jima@jatent.com>"
+    }
+}{
+    "First Name": "Estella", 
+    "Email": "eda311@aol.com", 
+    "additional": {
+        "Last Name": "<Eda311@aol.com>"
+    }
+}{
+    "First Name": "Cindy", 
+    "Email": "spaceman@getus.com", 
+    "additional": {
+        "Last Name": "<spaceman@getus.com>"
+    }
+}{
+    "First Name": "Shannon", 
+    "Email": "shannonbeatty107@netscape.net", 
+    "additional": {
+        "Last Name": "<shannonbeatty107@netscape.net>"
+    }
+}{
+    "First Name": "Connie", 
+    "Email": "kbspike@aol.com", 
+    "additional": {
+        "Last Name": "<KBSPIKE@aol.com>"
+    }
+}{
+    "First Name": "Teresa", 
+    "Email": "tgallagherbell@aol.com", 
+    "additional": {
+        "Last Name": "<Tgallagherbell@aol.com>"
+    }
+}{
+    "First Name": "Sharlane", 
+    "Email": "gsetbill@gateway.net", 
+    "additional": {
+        "Last Name": "<gsetbill@gateway.net>"
+    }
+}{
+    "First Name": "Kathy", 
+    "Email": "kblack@aokcomputers.com", 
+    "additional": {
+        "Last Name": "<kblack@aokcomputers.com>"
+    }
+}{
+    "First Name": "Connie/Kayla", 
+    "Email": "kbraziel@hotmail.com", 
+    "additional": {
+        "Last Name": "<Kbraziel@hotmail.com>"
+    }
+}{
+    "First Name": "Joan", 
+    "Email": "joanbrtt@netscape.net", 
+    "additional": {
+        "Last Name": "<JoanBrtt@netscape.net>"
+    }
+}{
+    "First Name": "Therese", 
+    "Email": "luvzakc@aol.com", 
+    "additional": {
+        "Last Name": "<luvzakc@aol.com>"
+    }
+}{
+    "First Name": "Miranda", 
+    "Email": "mirandabuckley@pzlqs.com", 
+    "additional": {
+        "Last Name": "<MirandaBuckley@PZLQS.com>"
+    }
+}{
+    "First Name": "Sandy/Morgan", 
+    "Email": "thebyrds@dellnet.com", 
+    "additional": {
+        "Last Name": "<thebyrds@dellnet.com>"
+    }
+}{
+    "First Name": "Glenda", 
+    "Email": "byrns@swbell.net", 
+    "additional": {
+        "Last Name": "<byrns@swbell.net>"
+    }
+}{
+    "First Name": "Linda", 
+    "Email": "linda.christy@compaq.com", 
+    "additional": {
+        "Last Name": "<Linda.Christy@COMPAQ.com>"
+    }
+}{
+    "First Name": "Linda", 
+    "Email": "jgconn@yahoo.com", 
+    "additional": {
+        "Last Name": "<jgconn@yahoo.com>"
+    }
+}{
+    "First Name": "Gay", 
+    "Email": "craddock@clearsail.net", 
+    "additional": {
+        "Last Name": "<craddock@clearsail.net>"
+    }
+}{
+    "First Name": "Cynthia/Melissa", 
+    "Email": "cday@houston.rr.com", 
+    "additional": {
+        "Last Name": "<cday@houston.rr.com>"
+    }
+}{
+    "First Name": "Diana", 
+    "Email": "dianald101@aol.com", 
+    "additional": {
+        "Last Name": "<dianaLD101@aol.com>"
+    }
+}{
+    "First Name": "Nancy", 
+    "Email": "jnkmdip@aol.com", 
+    "additional": {
+        "Last Name": "<JNKMDip@aol.com>"
+    }
+}{
+    "First Name": "Lynette", 
+    "Email": "cdmcandles@aol.com", 
+    "additional": {
+        "Last Name": "<CDMcandles@aol.com>"
+    }
+}{
+    "First Name": "Sue", 
+    "Email": "tehinger@pdq.net", 
+    "additional": {
+        "Last Name": "<tehinger@pdq.net>"
+    }
+}{
+    "First Name": "Nancy", 
+    "Email": "ncgalante@aol.com", 
+    "additional": {
+        "Last Name": "<ncgalante@aol.com>"
+    }
+}{
+    "First Name": "Tia", 
+    "Email": "tglenn8246@cs.com", 
+    "additional": {
+        "Last Name": "<TGlenn8246@cs.com>"
+    }
+}{
+    "First Name": "Nita", 
+    "Email": "nhanks2@stewart.com", 
+    "additional": {
+        "Last Name": "<nhanks2@stewart.com>"
+    }
+}{
+    "First Name": "Janet/Heather", 
+    "Email": "ketchup1200@aol.com", 
+    "additional": {
+        "Last Name": "<Ketchup1200@aol.com>"
+    }
+}{
+    "First Name": "Donna", 
+    "Email": "dhawes@houston.rr.com", 
+    "additional": {
+        "Last Name": "<dhawes@houston.rr.com>"
+    }
+}{
+    "First Name": "Linda", 
+    "Email": "linda410@webtv.net", 
+    "additional": {
+        "Last Name": "<LINDA410@Webtv.net>"
+    }
+}{
+    "First Name": "Debbie", 
+    "Email": "sdhoing@aol.com", 
+    "additional": {
+        "Last Name": "<sdhoing@aol.com>"
+    }
+}{
+    "First Name": "Kay", 
+    "Email": "klholub@aol.com", 
+    "additional": {
+        "Last Name": "<KLHolub@aol.com>"
+    }
+}{
+    "First Name": "Diane", 
+    "Email": "dielyh@hotmail.com", 
+    "additional": {
+        "Last Name": "<dielyh@hotmail.com>"
+    }
+}{
+    "First Name": "Devonne", 
+    "Email": "esi0001@aol.com", 
+    "additional": {
+        "Last Name": "<ESI0001@aol.com>"
+    }
+}{
+    "First Name": "Barbara/Kim", 
+    "Email": "swoosh17@aol.com", 
+    "additional": {
+        "Last Name": "<SWOOSH17@aol.com>"
+    }
+}{
+    "First Name": "Sheila", 
+    "Email": "jortner@ev1.net", 
+    "additional": {
+        "Last Name": "<jortner@ev1.net>"
+    }
+}{
+    "First Name": "Anhar", 
+    "Email": "abbasak@aol.com", 
+    "additional": {
+        "Last Name": "<abbasak@aol.com>"
+    }
+}{
+    "First Name": "Kathy", 
+    "Email": "kathytx@hotmail.com", 
+    "additional": {
+        "Last Name": "<kathytx@hotmail.com>"
+    }
+}{
+    "First Name": "Lexie", 
+    "Email": "qutielex@aol.com", 
+    "additional": {
+        "Last Name": "<QutieLex@aol.com>"
+    }
+}{
+    "First Name": "Linda", 
+    "Email": "tkreiner1@worldnet.att.net", 
+    "additional": {
+        "Last Name": "<tkreiner1@worldnet.att.net>"
+    }
+}{
+    "First Name": "Charlotte", 
+    "Email": "lapland@flash.net", 
+    "additional": {
+        "Last Name": "<lapland@flash.net>"
+    }
+}{
+    "First Name": "Barbara", 
+    "Email": "babslind@aol.com", 
+    "additional": {
+        "Last Name": "<BabsLind@aol.com>"
+    }
+}{
+    "First Name": "Susan", 
+    "Email": "sklduece@aol.com", 
+    "additional": {
+        "Last Name": "<sklduece@aol.com>"
+    }
+}{
+    "First Name": "Claire", 
+    "Email": "momcat5cwl@aol.com", 
+    "additional": {
+        "Last Name": "<Momcat5cwl@aol.com>"
+    }
+}{
+    "First Name": "Martha", 
+    "Email": "ccuser2@aol.com", 
+    "additional": {
+        "Last Name": "<ccuser2@aol.com>"
+    }
+}{
+    "First Name": "Elaine", 
+    "Email": "tegamark@ix.netcom.com", 
+    "additional": {
+        "Last Name": "<tegamark@ix.netcom.com>"
+    }
+}{
+    "First Name": "Sarah", 
+    "Email": "sarahm@flex.net", 
+    "additional": {
+        "Last Name": "<sarahm@flex.net>"
+    }
+}{
+    "First Name": "Joy", 
+    "Email": "mjoymartin@aol.com", 
+    "additional": {
+        "Last Name": "<MJoyMartin@aol.com>"
+    }
+}{
+    "First Name": "\"Patricia\u0001", 
+    "Email": "trish@quadcitys.com", 
+    "additional": {
+        "Last Name": ""
+    }
+}{
+    "First Name": "\"", 
+    "Email": "claudia.mccracken@compaq.com", 
+    "additional": {
+        "Last Name": "<Trish@Quadcitys.com>"
+    }
+}{
+    "First Name": "Claudia", 
+    "Email": "danz7mnm@aol.com", 
+    "additional": {
+        "Last Name": "<claudia.mccracken@compaq.com>"
+    }
+}{
+    "First Name": "Teri", 
+    "Email": "katiemcmullen@aol.com", 
+    "additional": {
+        "Last Name": "<DAnz7MNM@aol.com>"
+    }
+}{
+    "First Name": "Katie", 
+    "Email": "mikl@texas.net", 
+    "additional": {
+        "Last Name": "<KatieMcmullen@aol.com>"
+    }
+}{
+    "First Name": "Val", 
+    "Email": "rmolohon@pdq.net", 
+    "additional": {
+        "Last Name": "<mikl@texas.net>"
+    }
+}{
+    "First Name": "Nora", 
+    "Email": "montalvo97@aol.com", 
+    "additional": {
+        "Last Name": "<rmolohon@pdq.net>"
+    }
+}{
+    "First Name": "Meg", 
+    "Email": "tfmmo@aol.com", 
+    "additional": {
+        "Last Name": "<Montalvo97@aol.com>"
+    }
+}{
+    "First Name": "Tia", 
+    "Email": "muniman50@aol.com", 
+    "additional": {
+        "Last Name": "<TFMMO@aol.com>"
+    }
+}{
+    "First Name": "Lois", 
+    "Email": "jan@hosi.net", 
+    "additional": {
+        "Last Name": "<muniman50@aol.com>"
+    }
+}{
+    "First Name": "Jan", 
+    "Email": "spauley@swbell.net", 
+    "additional": {
+        "Last Name": "<jan@hosi.net>"
+    }
+}{
+    "First Name": "Sharon", 
+    "Email": "rebachian@aol.com", 
+    "additional": {
+        "Last Name": "<spauley@swbell.net>"
+    }
+}{
+    "First Name": "Becky", 
+    "Email": "jipod@aol.com", 
+    "additional": {
+        "Last Name": "<rebachian@aol.com>"
+    }
+}{
+    "First Name": "Judy", 
+    "Email": "nramsey@houston.rr.com", 
+    "additional": {
+        "Last Name": "<jipod@aol.com>"
+    }
+}{
+    "First Name": "Nancy", 
+    "Email": "terrireasons@excite.com", 
+    "additional": {
+        "Last Name": "<nramsey@houston.rr.com>"
+    }
+}{
+    "First Name": "Terri", 
+    "Email": "bkreese98@aol.com", 
+    "additional": {
+        "Last Name": "<TerriReasons@excite.com>"
+    }
+}{
+    "First Name": "Lisa", 
+    "Email": "jackie.scardello@compaq.com", 
+    "additional": {
+        "Last Name": "<BKReese98@aol.com>"
+    }
+}{
+    "First Name": "Jackie/Megan", 
+    "Email": "mns1024@houston.rr.com", 
+    "additional": {
+        "Last Name": "<Jackie.Scardello@compaq.com>"
+    }
+}{
+    "First Name": "Nelle\"", 
+    "Email": "rstone9522@aol.com", 
+    "additional": {
+        "Last Name": "<mns1024@houston.rr.com>"
+    }
+}{
+    "First Name": "Linda", 
+    "Email": "pattbo@getus.com", 
+    "additional": {
+        "Last Name": "<ges@houston.rr.com>"
+    }
+}{
+    "First Name": "Pam", 
+    "Email": "azot@postoffice.att.net", 
+    "additional": {
+        "Last Name": "<RStone9522@aol.com>"
+    }
+}{
+    "First Name": "Kathryn", 
+    "Email": "swalker222@aol.com", 
+    "additional": {
+        "Last Name": "<pattbo@getus.com>"
+    }
+}{
+    "First Name": "Lynne", 
+    "Email": "gary3cs@ev1.net", 
+    "additional": {
+        "Last Name": "<azot@postoffice.att.net>"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "annyoung@houston.rr.com", 
+    "additional": {
+        "Last Name": "<SWalker222@aol.com>"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "annyoung@houston.rr.com", 
+    "additional": {
+        "Last Name": "<SWalker222@aol.com>"
+    }
+}{
+    "First Name": "\"Janet", 
+    "Email": "mirkopetrak@usa.net", 
+    "additional": {
+        "Last Name": "<MirkoPetrak@usa.net>"
+    }
+}{
+    "First Name": "\"Linda", 
+    "Email": "linda@thechristys.net", 
+    "additional": {
+        "Last Name": "<Linda@thechristys.net>"
+    }
+}{
+    "First Name": "\"Linda", 
+    "Email": "linda@thechristys.net", 
+    "additional": {
+        "Last Name": "<Linda@thechristys.net>"
+    }
+}{
+    "First Name": "Andy", 
+    "Email": "andy.unverzagt@enron.com", 
+    "additional": {
+        "Last Name": "Unverzagt", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "\"'marian@dah.state.ar.us'\"", 
+    "Email": "marian@dah.state.ar.us", 
+    "additional": {
+        "Last Name": "<marian@dah.state.ar.us>"
+    }
+}{
+    "First Name": "Estella", 
+    "Email": "eda@aol.com", 
+    "additional": {
+        "Last Name": "<Eda@aol.com>"
+    }
+}{
+    "First Name": "Melanie", 
+    "Email": "inlight134@aol.com", 
+    "additional": {
+        "Last Name": "<Inlight134@aol.com>"
+    }
+}{
+    "First Name": "Shannon", 
+    "Email": "sbeatty107@aol.com", 
+    "additional": {
+        "Last Name": "<sbeatty107@aol.com>"
+    }
+}{
+    "First Name": "Linda", 
+    "Email": "thechristys@pdq.net", 
+    "additional": {
+        "Last Name": "<TheChristys@pdq.net>"
+    }
+}{
+    "First Name": "Suzette", 
+    "Email": "sdaniell@pdq.net", 
+    "additional": {
+        "Last Name": "<sdaniell@pdq.net>"
+    }
+}{
+    "First Name": "Cynthia/Melissa", 
+    "Email": "mdltx21@yahoo.com", 
+    "additional": {
+        "Last Name": "<mdltx21@yahoo.com>"
+    }
+}{
+    "First Name": "Nita", 
+    "Email": "jerry.hanks@gte.net", 
+    "additional": {
+        "Last Name": "<jerry.hanks@gte.net>"
+    }
+}{
+    "First Name": "Diane", 
+    "Email": "isource2@msn.com", 
+    "additional": {
+        "Last Name": "<isource2@msn.com>"
+    }
+}{
+    "First Name": "Sherry", 
+    "Email": "smach4444@aol.com", 
+    "additional": {
+        "Last Name": "<smach4444@aol.com>"
+    }
+}{
+    "First Name": "Sherry", 
+    "Email": "smach4444@aol.com", 
+    "additional": {
+        "Last Name": "<smach4444@aol.com>"
+    }
+}{
+    "First Name": "Val", 
+    "Email": "mikl@texas.com", 
+    "additional": {
+        "Last Name": "<mikl@texas.com>"
+    }
+}{
+    "First Name": "Mary", 
+    "Email": "thirty7587@aol.com", 
+    "additional": {
+        "Last Name": "<Thirty7587@aol.com>"
+    }
+}{
+    "First Name": "Kathy", 
+    "Email": "ruehlman@aol.com", 
+    "additional": {
+        "Last Name": "<Ruehlman@aol.com>"
+    }
+}{
+    "First Name": "Kathy", 
+    "Email": "ruehlman@aol.com", 
+    "additional": {
+        "Last Name": "<Ruehlman@aol.com>"
+    }
+}{
+    "First Name": "Lorie", 
+    "Email": "jlsymon@prodigy.net", 
+    "additional": {
+        "Last Name": "<JLSymon@prodigy.net>"
+    }
+}{
+    "First Name": "Paula/Lea", 
+    "Email": "dxychick16@aol.com", 
+    "additional": {
+        "Last Name": "<DXYCHICK16@aol.com>"
+    }
+}{
+    "First Name": "Cheri", 
+    "Email": "vcv123123@aol.com", 
+    "additional": {
+        "Last Name": "<vcv123123@aol.com>"
+    }
+}{
+    "First Name": "Ann", 
+    "Email": "annyoung@flash.net", 
+    "additional": {
+        "Last Name": "<annyoung@flash.net>"
+    }
+}{
+    "First Name": "Nora/Kristin", 
+    "Email": "jaez@ev1.net", 
+    "additional": {
+        "Last Name": "<Jaez@ev1.net>"
+    }
+}

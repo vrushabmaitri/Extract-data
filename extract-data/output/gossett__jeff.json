@@ -1,0 +1,117 @@
+{
+    "First Name": "Jeffrey", 
+    "Email": "jeffrey.gossett@enron.com", 
+    "additional": {
+        "Last Name": "Gossett", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "James", 
+    "Email": "james.scribner@enron.com", 
+    "additional": {
+        "Last Name": "Scribner"
+    }
+}{
+    "First Name": "Bob", 
+    "Email": "bob.hall@enron.com", 
+    "additional": {
+        "Last Name": "Hall"
+    }
+}{
+    "First Name": "Leslie", 
+    "Email": "leslie.reeves@enron.com", 
+    "additional": {
+        "Last Name": "Reeves"
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Debbie", 
+    "Email": "debbie.brackett@enron.com", 
+    "additional": {
+        "Last Name": "Brackett"
+    }
+}{
+    "First Name": "John", 
+    "Email": "john.lavorato@enron.com", 
+    "additional": {
+        "Last Name": "Lavorato"
+    }
+}{
+    "First Name": "Scott", 
+    "Email": "scott.earnest@enron.com", 
+    "additional": {
+        "Last Name": "Earnest"
+    }
+}{
+    "First Name": "Shona", 
+    "Email": "shona.wilson@enron.com", 
+    "additional": {
+        "Last Name": "Wilson"
+    }
+}{
+    "First Name": "Stacey", 
+    "Email": "stacey.white@enron.com", 
+    "additional": {
+        "Last Name": "White"
+    }
+}{
+    "First Name": "Larry", 
+    "Email": "larry.may@enron.com", 
+    "additional": {
+        "Last Name": "May"
+    }
+}{
+    "First Name": "Phillip", 
+    "Email": "phillip.allen@enron.com", 
+    "additional": {
+        "Last Name": "Allen"
+    }
+}{
+    "First Name": "Tom", 
+    "Email": "tom.wilbeck@enron.com", 
+    "additional": {
+        "Last Name": "Wilbeck"
+    }
+}{
+    "First Name": "Dutch", 
+    "Email": "dutch.quigley@enron.com", 
+    "additional": {
+        "Last Name": "Quigley"
+    }
+}{
+    "First Name": "Darron", 
+    "Email": "darron.giron@enron.com", 
+    "additional": {
+        "Last Name": "Giron"
+    }
+}{
+    "First Name": "Kam", 
+    "Email": "kam.keiser@enron.com", 
+    "additional": {
+        "Last Name": "Keiser"
+    }
+}{
+    "First Name": "William", 
+    "Email": "william.kelly@enron.com", 
+    "additional": {
+        "Last Name": "Kelly"
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.baumbach@enron.com", 
+    "additional": {
+        "Last Name": "Baumbach"
+    }
+}{
+    "First Name": "Kim", 
+    "Email": "kim.theriot@enron.com", 
+    "additional": {
+        "Last Name": "Theriot"
+    }
+}

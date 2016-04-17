@@ -1,0 +1,69 @@
+{
+    "First Name": "All_Enron_North", 
+    "Email": "all_enron_north.america@enron.com", 
+    "additional": {
+        "Last Name": "America"
+    }
+}{
+    "First Name": "ClickatHome", 
+    "Email": "clickathome.mailout@enron.com", 
+    "additional": {
+        "Last Name": "mailout"
+    }
+}{
+    "First Name": "ClickatHome", 
+    "Email": "clickathome.mailout@enron.com", 
+    "additional": {
+        "Last Name": "mailout"
+    }
+}{
+    "First Name": "ClickatHome", 
+    "Email": "clickathome.mailout@enron.com", 
+    "additional": {
+        "Last Name": "mailout"
+    }
+}{
+    "First Name": "ClickatHome", 
+    "Email": "clickathome.mailout@enron.com", 
+    "additional": {
+        "Last Name": "mailout"
+    }
+}{
+    "First Name": "All", 
+    "Email": "all.worldwide@enron.com", 
+    "additional": {
+        "Last Name": "Worldwide"
+    }
+}{
+    "First Name": "All", 
+    "Email": "all.worldwide@enron.com", 
+    "additional": {
+        "Last Name": "Worldwide"
+    }
+}{
+    "First Name": "ENW-Employees_Houston", 
+    "Email": "enw-employees_houston@enron.com", 
+    "additional": {
+        "Last Name": "<ENW-Employees_Houston@ECT>"
+    }
+}{
+    "First Name": "ENW-Employees_Houston", 
+    "Email": "enw-employees_houston@enron.com", 
+    "additional": {
+        "Last Name": "<ENW-Employees_Houston@ECT>"
+    }
+}{
+    "First Name": "ENA", 
+    "Email": "ena.employees@enron.com", 
+    "additional": {
+        "Last Name": "Employees"
+    }
+}{
+    "First Name": "Enron", 
+    "Email": "enron.announcements@enron.com", 
+    "additional": {
+        "Last Name": "Announcements", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}

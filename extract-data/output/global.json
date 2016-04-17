@@ -1,0 +1,77 @@
+{
+    "First Name": "Shona", 
+    "Email": "shona.wilson@enron.com", 
+    "additional": {
+        "Last Name": "Wilson", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Sally", 
+    "Email": "sally.beck@enron.com", 
+    "additional": {
+        "Last Name": "Beck"
+    }
+}{
+    "First Name": "Patti", 
+    "Email": "patti.thompson@enron.com", 
+    "additional": {
+        "Last Name": "Thompson"
+    }
+}{
+    "First Name": "Shawn", 
+    "Email": "shawn.kilchrist@enron.com", 
+    "additional": {
+        "Last Name": "Kilchrist"
+    }
+}{
+    "First Name": "Michael", 
+    "Email": "michael.moscoso@enron.com", 
+    "additional": {
+        "Last Name": "Moscoso"
+    }
+}{
+    "First Name": "Ted", 
+    "Email": "ted.murphy@enron.com", 
+    "additional": {
+        "Last Name": "Murphy"
+    }
+}{
+    "First Name": "Cassandra", 
+    "Email": "cassandra.schultz@enron.com", 
+    "additional": {
+        "Last Name": "Schultz"
+    }
+}{
+    "First Name": "Donna", 
+    "Email": "donna.lowry@enron.com", 
+    "additional": {
+        "Last Name": "Lowry"
+    }
+}{
+    "First Name": "Sherri", 
+    "Email": "sherri.griffin@enron.com", 
+    "additional": {
+        "Last Name": "Griffin"
+    }
+}{
+    "First Name": "Richard", 
+    "Email": "richard.lauer@enron.com", 
+    "additional": {
+        "Last Name": "Lauer"
+    }
+}{
+    "First Name": "Julissa", 
+    "Email": "julissa.marron@enron.com", 
+    "additional": {
+        "Last Name": "Marron", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Mary", 
+    "Email": "mary.solmonson@enron.com", 
+    "additional": {
+        "Last Name": "Solmonson"
+    }
+}

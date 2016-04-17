@@ -1,0 +1,47 @@
+{
+    "First Name": "Public", 
+    "Email": "public.relations@enron.com", 
+    "additional": {
+        "Last Name": "Relations", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "All", 
+    "Email": "all.downtown@enron.com", 
+    "additional": {
+        "Last Name": "Downtown"
+    }
+}{
+    "First Name": "Press", 
+    "Email": "press.release@enron.com", 
+    "additional": {
+        "Last Name": "Release", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "All", 
+    "Email": "all.worldwide@enron.com", 
+    "additional": {
+        "Last Name": "Worldwide"
+    }
+}{
+    "First Name": "All", 
+    "Email": "all.worldwide@enron.com", 
+    "additional": {
+        "Last Name": "Worldwide"
+    }
+}{
+    "First Name": "All_Enron_North", 
+    "Email": "all_enron_north.america@enron.com", 
+    "additional": {
+        "Last Name": "America"
+    }
+}{
+    "First Name": "All_Enron_North", 
+    "Email": "all_enron_north.america@enron.com", 
+    "additional": {
+        "Last Name": "America"
+    }
+}

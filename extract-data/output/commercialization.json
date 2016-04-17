@@ -1,0 +1,101 @@
+{
+    "First Name": "Susie", 
+    "Email": "susie.ayala@enron.com", 
+    "additional": {
+        "Last Name": "Ayala"
+    }
+}{
+    "First Name": "Susie", 
+    "Email": "susie.ayala@enron.com", 
+    "additional": {
+        "Last Name": "Ayala"
+    }
+}{
+    "First Name": "Fred", 
+    "Email": "fred.philipson@enron.com", 
+    "additional": {
+        "Last Name": "Philipson", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Beth", 
+    "Email": "beth.apollo@enron.com", 
+    "additional": {
+        "Last Name": "Apollo"
+    }
+}{
+    "First Name": "James", 
+    "Email": "james.scribner@enron.com", 
+    "additional": {
+        "Last Name": "Scribner"
+    }
+}{
+    "First Name": "Robert", 
+    "Email": "robert.superty@enron.com", 
+    "additional": {
+        "Last Name": "Superty"
+    }
+}{
+    "First Name": "Bob", 
+    "Email": "bob.hall@enron.com", 
+    "additional": {
+        "Last Name": "Hall"
+    }
+}{
+    "First Name": "Stephen", 
+    "Email": "stephen.abbanat@enron.com", 
+    "additional": {
+        "Last Name": "Abbanat"
+    }
+}{
+    "First Name": "Tommy", 
+    "Email": "tommy.yanowski@enron.com", 
+    "additional": {
+        "Last Name": "Yanowski"
+    }
+}{
+    "First Name": "Allan", 
+    "Email": "allan.sommer@enron.com", 
+    "additional": {
+        "Last Name": "Sommer"
+    }
+}{
+    "First Name": "Kathy", 
+    "Email": "kathy.kokas@enron.com", 
+    "additional": {
+        "Last Name": "Kokas"
+    }
+}{
+    "First Name": "Kim", 
+    "Email": "kim.theriot@enron.com", 
+    "additional": {
+        "Last Name": "Theriot", 
+        "Mobile": [], 
+        "Phone": []
+    }
+}{
+    "First Name": "Leslie", 
+    "Email": "leslie.reeves@enron.com", 
+    "additional": {
+        "Last Name": "Reeves"
+    }
+}{
+    "First Name": "David", 
+    "Email": "david.berberian@enron.com", 
+    "additional": {
+        "Last Name": "Berberian"
+    }
+}{
+    "First Name": "Rex", 
+    "Email": "rex.shelby@enron.com", 
+    "additional": {
+        "Last Name": "Shelby"
+    }
+}{
+    "First Name": "Greg", 
+    "Email": "greg.piper@enron.com", 
+    "additional": {
+        "Last Name": "Piper"
+    }
+}
